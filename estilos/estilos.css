@@ -32,9 +32,9 @@ header
 {
     width: 100%;
     height: 630px;
-    background: #FFA17F;
-    background: -webkit-linear-gradient(to right, hsla(207, 100%, 12%, 0.767), hsla(16, 100%, 75%, 0.562)), url(../IMAGENES/Foto.jpeg);
-    background: linear-gradient(to right, hsla(207, 100%, 12%, 0.767), hsla(16, 100%, 75%, 0.562)), url(../IMAGENES/Foto.jpeg);
+    background: #076585;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fff, #076585),url(../IMAGENES/Foto.jpeg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, hsla(0, 0%, 100%, 0.681), hsla(195, 90%, 27%, 0.686)),url(../IMAGENES/Foto.jpeg);
     background-size: cover;
     background-attachment: fixed;
     position: relative;
