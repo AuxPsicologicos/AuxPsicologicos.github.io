@@ -180,7 +180,7 @@ header .textos-header
     width: 50px;
 }
 .hover-galeria p{
-    color:white;
+    color: white;
 }
 .imagen-port:hover .hover-galeria{
     transform: scale(1);
@@ -234,4 +234,12 @@ footer
     font-size: 24px;
     margin: 20px 0 0 0;
     color: gray;
+}
+
+.cards
+{
+    display:flex;
+    color: antiquewhite;
+    margin-top: auto;
+    
 }
