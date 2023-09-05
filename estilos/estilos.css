@@ -151,6 +151,7 @@ header .textos-header
 .imagen-port{
     width: 24%;
     margin-bottom: 10px;
+    height: 200px;
     overflow: hidden;
     position: relative;
     cursor: pointer;
