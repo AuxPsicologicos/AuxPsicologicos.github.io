@@ -151,7 +151,7 @@ header .textos-header
 .imagen-port{
     width: 24%;
     margin-bottom: 10px;
-    height: 200px;
+    height: 150px;
     overflow: hidden;
     position: relative;
     cursor: pointer;
@@ -181,6 +181,10 @@ header .textos-header
 }
 .hober-galeria p{
     color:white;
+}
+.imagen-port:hover .hober-galeria{
+    transform: scale(1);
+
 }
 footer
 {
