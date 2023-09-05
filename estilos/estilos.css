@@ -156,6 +156,8 @@ header .textos-header
 .imagen-port{
     width: 24%;
     margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
 }
 .imagen-port > img{
     width: 100%;
