@@ -58,7 +58,7 @@ nav > a
 /* Indices, cuando pase el mouse */
 nav > a:hover
 {
-    font-weight: 800;
+    font-weight: underline;
     color: darkred;
     text-decoration: underline;
 }
