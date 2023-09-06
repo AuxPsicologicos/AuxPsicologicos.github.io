@@ -209,12 +209,12 @@ header .textos-header
     border-radius: 50%;
     display: block;
 }
-.cards .card > .contenido-textos-cards
+.cards .card > .contenido-texto-card
 {
     width: 60%;
     color: #fff;
 }
-.cards .card > .contenido-textos-cards p
+.cards .card > .contenido-texto-card p
 {
     font-weight: 300;
     padding-top: 5px;
