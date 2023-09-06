@@ -53,6 +53,7 @@ nav > a
     text-decoration: none;
     margin-right: 10px;
 }
+
 /* Indices, cuando pase el mouse */
 nav > a:hover
 {
@@ -294,4 +295,3 @@ footer
     margin: 20px 0 0 0;
     color: gray;
 }
-
