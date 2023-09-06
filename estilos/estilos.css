@@ -184,6 +184,7 @@ header .textos-header
 .imagen-port:hover .hover-galeria{
     transform: scale(1);
 }
+
 .cards
 {
     display:flex;
@@ -200,7 +201,7 @@ header .textos-header
 }
 .cards .card img
 {
-    width: 100%;
+    width: 100px;
     height: 100px;
     object-fit: cover;
     border-radius: 50%;
